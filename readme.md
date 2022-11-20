@@ -1,5 +1,8 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/isaac-cabrices/COMP3613-A1)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://comp3614-a1-deliverable.herokuapp.com/)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/isaac-cabrices/COMP3613-A1)
+
+HTML
 
 ![Tests](https://github.com/uwidcit/flaskmvc/actions/workflows/dev.yml/badge.svg)
 
